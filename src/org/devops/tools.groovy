@@ -1,5 +1,5 @@
 packege org.devops
 
-def printMsg(mgs){
+def printMsg(msg){
   print(msg)
 }
